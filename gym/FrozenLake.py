@@ -23,6 +23,7 @@ class Config:
         self.replay_buffer = 5 * 10**5
         self.gamma = 0.99
         self.gpu = 0;
+        self.start_epsilon = 0.99
 
 
 #Setting up of Gym Environment
@@ -50,8 +51,8 @@ def setupAgent(env,config):
     replay_buffer = config.replay_buffer
 
     explorer = explorers.LinearDecayEpsilonGreedy(
-        start_epsilon=config.start_epsilon,
-        end_epsilon=config.end_epsilon,
+        start_epsilon=config.start_exploration_epsilon,
+        end_epsilon=config.end_exploration_epsilon,
         decay_steps=config.decay_exploration_steps,
         random_action_func=env.action_space.sample())
 
@@ -68,8 +69,8 @@ def setupAgent(env,config):
         gpu=config.gpu,
         replay_start_size=50000,
         minibatch_size=32,
-        update_interval=1,
-        target_update_interval=10000,
+        update_frequency=1,
+        target_update_frequency=10000,
         clip_delta=True,
         phi=phi,
         target_update_method=u'hard',
@@ -78,8 +79,8 @@ def setupAgent(env,config):
         average_q_decay=0.999,
         average_loss_decay=0.99,
         batch_accumulator=u'mean',
-        episodic_update=False,
-        episodic_update_len=None)
+        episodic_update=4,
+        episodic_update_len=16)
 
 
 def main():
