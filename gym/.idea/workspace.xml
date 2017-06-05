@@ -1,8 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="def97cd5-a724-4f15-9036-0871f6a582a2" name="Default" comment="">
+    <list default="true" id="def97cd5-a724-4f15-9036-0871f6a582a2" name="Default" comment="Created FrozenLake">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/0_except/model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/0_except/optimizer.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/10000/model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/10000/optimizer.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/10000/target_model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/20000/model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/20000/optimizer.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/20000/target_model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/10000/model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/10000/optimizer.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/10000/target_model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/0_except/model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/0_except/optimizer.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/0_except/target_model.npz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530171838687581/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530171838687581/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530171838687581/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530171838687581/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530171838687581/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530171838687581/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185303301108/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185303301108/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185303301108/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185303301108/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185303301108/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185303301108/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185345078280/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185345078280/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185345078280/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185345078280/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185345078280/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185345078280/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185356490851/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185356490851/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185356490851/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185356490851/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185356490851/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185356490851/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530185411426063/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530190101697860/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191417897830/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170530191500021503/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531111558938406/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531111558938406/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531111558938406/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531111558938406/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531111558938406/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531111558938406/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112643118003/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112643118003/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112643118003/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112643118003/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112643118003/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112643118003/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112714318473/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112714318473/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112714318473/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112714318473/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112714318473/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531112714318473/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531114207372237/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531115449275121/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122202912563/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122412103671/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531122603161037/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124421676053/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531124935398907/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531140508030812/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141931.019996/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T141944.618858/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142016.867999/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142203.586850/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170531T142300.206199/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FrozenLake/20170601T145040.718516/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo_acer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164856712597/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530164935603000/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165001959977/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530165253323887/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190302858475/scores.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190318559445/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/args.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/command.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/environ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/git-diff.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/git-head.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/git-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/git-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dqn_out/20170530190338780276/scores.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gym.iml" afterPath="$PROJECT_DIR$/.idea/gym.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrozenLake.py" afterPath="$PROJECT_DIR$/FrozenLake.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gomoko.py" afterPath="$PROJECT_DIR$/Gomoko.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.py" afterPath="$PROJECT_DIR$/demo.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,27 +257,25 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FrozenLake.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FrozenLake.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="69" column="23" lean-forward="true" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+            <state relative-caret-position="144">
+              <caret line="101" column="30" lean-forward="true" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#400#431#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gomoko.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gomoko.py">
+      <file leaf-file-name="evaluator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/experiments/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1116">
+              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,18 +283,53 @@
       <file leaf-file-name="gomoku.py" pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/lib/python2.7/dist-packages/gym_gomoku/envs/gomoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state relative-caret-position="161">
+              <caret line="261" column="24" lean-forward="false" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#923#1883#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="async.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/misc/async.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="state_q_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/q_functions/state_q_functions.py">
+      <file leaf-file-name="Gomoko.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gomoko.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="60" column="42" lean-forward="false" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="42" />
+            <state relative-caret-position="90">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a3c.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/agents/a3c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="131" column="49" lean-forward="true" selection-start-line="131" selection-start-column="49" selection-end-line="131" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_agent_async.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/experiments/train_agent_async.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="107" column="27" lean-forward="false" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -67,22 +344,38 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>phi</find>
+      <find>DiscreteActionValue</find>
+      <find>step</find>
+      <find>get_legal_action</find>
+      <find>try</find>
+      <find>eval</find>
+      <find>eval_interval</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FrozenLake.py" />
         <option value="$PROJECT_DIR$/Gomuko.py" />
+        <option value="$PROJECT_DIR$/FrozenLake.py" />
+        <option value="$PROJECT_DIR$/demo_a3c.py" />
         <option value="$PROJECT_DIR$/Gomoko.py" />
+        <option value="$PROJECT_DIR$/demo_acer.py" />
+        <option value="$PROJECT_DIR$/chainerrl/chainerrl/experiments/evaluator.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/chainerrl/chainerrl/experiments/train_agent_async.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="654" />
     <option name="y" value="24" />
-    <option name="width" value="1041" />
+    <option name="width" value="1258" />
     <option name="height" value="951" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -101,8 +394,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -121,6 +414,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chainerrl" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,25 +428,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Gomoko">
-    <configuration default="false" name="FrozenLake" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="gym" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FrozenLake.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.demo">
     <configuration default="false" name="Gomoko" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,6 +442,78 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="gym" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gomoko.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo_acer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gym" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_acer.py" />
+      <option name="PARAMETERS" value="2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gym" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gomoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/lib/python2.7/dist-packages/gym_gomoku/envs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gym" />
+      <option name="SCRIPT_NAME" value="/usr/local/lib/python2.7/dist-packages/gym_gomoku/envs/gomoku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="train_agent_async" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chainerrl/chainerrl/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gym" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chainerrl/chainerrl/experiments/train_agent_async.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,14 +584,35 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.FrozenLake" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Gomoko" />
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="chainerrl" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Gomoko" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demo_acer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.gomoku" />
+      <item index="4" class="java.lang.String" itemvalue="Python.train_agent_async" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Gomoko" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FrozenLake" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Gomoko" />
+        <item index="2" class="java.lang.String" itemvalue="Python.train_agent_async" />
+        <item index="3" class="java.lang.String" itemvalue="Python.gomoku" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo_acer" />
       </list>
     </recent_temporary>
   </component>
@@ -286,30 +655,38 @@
       <option name="project" value="LOCAL" />
       <updated>1495100788272</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created FrozenLake">
+      <created>1495100829692</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1495100829692</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1041" height="951" extended-state="4" />
+    <frame x="654" y="24" width="1258" height="951" extended-state="4" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2142171" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15977742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2629717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25456622" sideWeight="0.5018868" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3537736" sideWeight="0.49811321" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985849" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.83886254" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="79" y="117" width="770" height="511" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="781" y="495" width="627" height="751" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -356,46 +733,146 @@
     <option name="LAST_COMMIT_MESSAGE" value="Created FrozenLake" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/local/lib/python2.7/dist-packages/chainer/functions/connection/linear.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/local/lib/python2.7/dist-packages/chainer/utils/type_check.py</url>
+          <line>448</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/local/lib/python2.7/dist-packages/chainerrl/agents/acer.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/lib/python2.7/site-packages/chainerrl/experiments/train_agent.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.local/lib/python2.7/site-packages/chainerrl/experiments/train_agent.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="35" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FrozenLake">
+    <entry file="file://$PROJECT_DIR$/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2718">
+          <caret line="156" column="26" lean-forward="false" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+          <folding>
+            <element signature="e#400#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/gym_gomoku/envs/gomoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4464">
+          <caret line="261" column="24" lean-forward="false" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#923#1883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/misc/async.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/numpy/core/numeric.py">
+    <entry file="file:///usr/lib/python2.7/multiprocessing/process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
+        <state relative-caret-position="4950">
+          <caret line="278" column="0" lean-forward="false" selection-start-line="278" selection-start-column="0" selection-end-line="278" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/gym/envs/registration.py">
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/agents/a3c.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2214">
-          <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="24" />
+        <state relative-caret-position="4536">
+          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/gym/core.py">
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/misc/env_modifiers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="258" column="17" lean-forward="true" selection-start-line="258" selection-start-column="13" selection-end-line="258" selection-end-column="25" />
+        <state relative-caret-position="1008">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/gym/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/experiments/train_agent_async.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="69" column="29" lean-forward="true" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrozenLake.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="69" column="23" lean-forward="true" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        <state relative-caret-position="1260">
+          <caret line="70" column="44" lean-forward="false" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#400#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gomoko.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_acer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="124" column="9" lean-forward="false" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrozenLake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="103" column="33" lean-forward="false" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="33" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -404,26 +881,215 @@
     </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/gym_gomoku/envs/gomoku.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4266">
+          <caret line="250" column="22" lean-forward="false" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#923#1883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="157" column="0" lean-forward="true" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+          <folding>
+            <element signature="e#400#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrozenLake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/gym/envs/registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/gym/core.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <caret line="258" column="17" lean-forward="true" selection-start-line="258" selection-start-column="13" selection-end-line="258" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/q_functions/state_q_functions.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/agents/dqn.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/experiments/train_agent.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/links/sequence.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainer/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainer/links/connection/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainer/functions/connection/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/q_functions/state_q_functions.py">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainer/utils/type_check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="60" column="42" lean-forward="false" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="42" />
+        <state relative-caret-position="187">
+          <caret line="450" column="0" lean-forward="true" selection-start-line="450" selection-start-column="0" selection-end-line="450" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/misc/async.py" />
+    <entry file="file:///usr/lib/python2.7/multiprocessing/forking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/chainerrl/experiments/train_agent_async.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/agents/acer.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/chainerrl/agents/a3c.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/chainerrl/experiments/train_agent.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/chainerrl/experiments/train_agent_async.py" />
+    <entry file="file://$PROJECT_DIR$/demo_acer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="124" column="9" lean-forward="false" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrozenLake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="70" column="44" lean-forward="false" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/gym/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrozenLake/20170601T145040.718516/git-diff.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="600" column="3" lean-forward="false" selection-start-line="600" selection-start-column="3" selection-end-line="600" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/experiments/prepare_output_dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/misc/env_modifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/agents/a3c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="131" column="49" lean-forward="true" selection-start-line="131" selection-start-column="49" selection-end-line="131" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gomoko.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="35" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/misc/async.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/gym_gomoku/envs/gomoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="261" column="24" lean-forward="false" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#923#1883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/experiments/evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainerrl/chainerrl/experiments/train_agent_async.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="107" column="27" lean-forward="false" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="101" column="30" lean-forward="true" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding>
+            <element signature="e#400#431#0" expanded="true" />
           </folding>
         </state>
       </provider>

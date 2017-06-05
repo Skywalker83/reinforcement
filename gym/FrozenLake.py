@@ -6,6 +6,8 @@ import numpy as np
 from chainerrl import q_functions
 from chainerrl import explorers
 from chainerrl.agents.dqn import DQN
+from chainerrl import experiments
+
 from chainer import optimizers
 
 import logging
@@ -22,7 +24,7 @@ class Config:
         self.decay_exploration_steps = 10**4
         self.replay_buffer = 5 * 10**5
         self.gamma = 0.99
-        self.gpu = 0
+        self.gpu = None
         self.start_epsilon = 0.99
         self.replay_start_size = 50
         self.mini_batch_size = 4
@@ -34,6 +36,7 @@ class Config:
         self.average_q_decay = 0.999
         self.soft_update_tau = 0.01
         self.clip_delta = True
+        self.isTraining = True
 
 
 
@@ -60,7 +63,7 @@ def setupAgent(env,config):
     optimizer = optimizers.Adam()
     optimizer.setup(q_function)
 
-    replay_buffer = config.replay_buffer
+    replay_buffer = config.replay_buffer #why?
 
     explorer = explorers.LinearDecayEpsilonGreedy(
         start_epsilon=config.start_exploration_epsilon,
@@ -94,22 +97,34 @@ def setupAgent(env,config):
         episodic_update=config.episodic_update,
         episodic_update_len=config.episodic_update_len)
 
+    return agent
+
 
 def main():
     env = setupEnv('FrozenLake-v0')
-    config = Config(episode=20)
-    setupAgent(env,config)
+    config = Config(episode=100)
+    agent = setupAgent(env,config)
 
-    for i_episode in range(config.num_episode):
-        observation = env.reset()
-        for t in range(100):
-            env.render()
-            action = env.action_space.sample()
-            observation, rewards, done,info = env.step(action)
+    steps = 10000
+    eval_n_runs = 100
+    eval_frequency = 1000
+    max_episode_len = 100
+    step_offset = 100
+    outdir = '/tmp/FrozenLake-v0' #??
 
-            if done:
-                print("Episode {} finished after {} timesteps".format(i_episode+1,t+1))
-                break
+    eval_stats = experiments.train_agent_with_evaluation(
+        agent=agent,
+        env=env,
+        steps=steps,
+        eval_n_runs=eval_n_runs,
+        eval_frequency=eval_frequency,
+        max_episode_len=max_episode_len,
+        step_offset=step_offset,
+        outdir=outdir)
+
+    print('n_runs: {} mean: {} median: {} stdev {}'.format(
+        eval_n_runs, eval_stats['mean'], eval_stats['median'],
+        eval_stats['stdev']))
 
 
 if __name__ == "__main__":
